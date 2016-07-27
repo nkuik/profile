@@ -1,0 +1,76 @@
+.container {
+  width: 50%;
+  margin: 0px auto;
+}
+
+.card {
+  margin-bottom: 20px;
+  border-radius: 4px;
+  padding: 30px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-white{
+  background: #FFFFFF;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.social-icons {
+  font-size: 50px;
+}
+
+.behavior-icons {
+  font-size: 20px;
+}
+
+.img-circle {
+
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.ul-no-padding {
+  padding-left: 0
+}
+
+a {
+  color: #B3B3B3;
+}
+
+a:hover {
+  color: #00ADB5;
+}
+
+h1 {
+  font-family: 'Montserrat', serif;
+  font-weight: 400;
+  color: #00ADB5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 100%;
+  font-weight: 400;
+  color: #808080;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 110%;
+  font-weight: 100;
+  color: #999999;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 100%;
+  font-weight: 100;
+  background: #E6E6E6;
+}
+
